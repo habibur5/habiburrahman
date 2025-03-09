@@ -26,3 +26,9 @@
   .swiper-pagination-bullet {
     background-color: #23b9eb;
   }
+
+#works div div ul li:hover {
+    background-color: #23b9eb;
+    transform: scale(1.2);
+
+}
